@@ -1,4 +1,4 @@
-# finalproject-group7 IEEE CIS fraud detection
+# Group7 IEEE CIS fraud detection
 
 ### Group Members
 * 107703001 資科三 鄭家宇
