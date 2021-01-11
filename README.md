@@ -1,6 +1,4 @@
-# finalproject-group7
-finalproject-group7 created by GitHub Classroom
-# IEEE CIS fraud detection
+# finalproject-group7 IEEE CIS fraud detection
 
 ### Group Members
 * 107703001 資科三 鄭家宇
