@@ -18,6 +18,8 @@
 
 * Online Reactive Visual Graphs via Shiny
 * [Link to Shiny Demo]( https://sourlab.shinyapps.io/datascience/)
+* [Link to Shiny Demo Video](https://reurl.cc/Ag1QrK)
+
 
 #### Data
 * The data is broken into two files **identity** and **transaction**, which are joined by `TransactionID`.
