@@ -15,7 +15,7 @@
 * IEEE-CIS works across a variety of AI and machine learning areas, including deep neural networks, fuzzy systems, evolutionary computation, and swarm intelligence. Today they’re partnering with the world’s leading payment service company, Vesta Corporation, seeking the best solutions for fraud prevention industry.
 
 ### Demo 
-(modelResultPlot.png)
+![shiny](modelResultPlot.png)
 * Online Reactive Visual Graphs via Shiny
 * [Link to Shiny Demo]( https://sourlab.shinyapps.io/datascience/)
 * [Link to Shiny Demo Video](https://reurl.cc/Ag1QrK)
