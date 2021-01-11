@@ -50,3 +50,13 @@
 - LightGBM Regressor
 - KNN
 - SVM
+
+#### **Reference** 
+Beginner's random forest example
+https://www.kaggle.com/yoongkang/beginner-s-random-forest-example
+Beginner memory reduction techniques
+https://www.kaggle.com/yoongkang/beginner-memory-reduction-techniques
+IEEE Fraud Detection EDA Step1
+https://www.kaggle.com/sunghun/ieee-fraud-detection-eda-step1#3.-transactionAmt
+Data description
+https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203
