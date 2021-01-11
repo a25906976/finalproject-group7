@@ -60,3 +60,5 @@ https://www.kaggle.com/yoongkang/beginner-memory-reduction-techniques
 https://www.kaggle.com/sunghun/ieee-fraud-detection-eda-step1#3.-transactionAmt
 - Data description
 https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203
+-  LightGBM starter with R [0.9493+] LB
+https://www.kaggle.com/duykhanh99/lightgbm-starter-with-r-0-9493-lb
