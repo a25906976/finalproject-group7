@@ -52,6 +52,7 @@
 - LightGBM Regressor
 - KNN
 - SVM
+- NaiveBayes
 
 #### **Reference** 
 - Beginner's random forest example
@@ -62,5 +63,7 @@ https://www.kaggle.com/yoongkang/beginner-memory-reduction-techniques
 https://www.kaggle.com/sunghun/ieee-fraud-detection-eda-step1#3.-transactionAmt
 - Data description
 https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203
+- NaiveBayes
+https://www.rdocumentation.org/packages/e1071/versions/1.7-4/topics/naiveBayes
 -  LightGBM starter with R [0.9493+] LB
 https://www.kaggle.com/duykhanh99/lightgbm-starter-with-r-0-9493-lb
